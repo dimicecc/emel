@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: avrg-arrays
+Source: https://github.com/dimicecc/tppispo_1.git
+
+Files: *
+Copyright: 2025 GE <ge@gmail.com>
+License: MIT
